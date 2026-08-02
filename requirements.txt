@@ -9,4 +9,3 @@ notebook>=7.0
 ipykernel>=6.0
 streamlit
 joblib
-p
